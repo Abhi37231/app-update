@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "apk_url": "https://example.com/app.apk",
+  "message": "New update available! Please update.",
+  "force_update": false
+}
